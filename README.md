@@ -9,6 +9,7 @@
  ```
  Privremeno ime : Catcher&Gatherer
  Tim : 121
+ ok
  Br osoba u timu: 1
  Team leader: Žan-Žak Žmak
  ```
